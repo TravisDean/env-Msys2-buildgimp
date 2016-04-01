@@ -1,0 +1,10 @@
+This is my setup of Msys2 for compiling Gimp from source, for Windows, on Windows.
+
+All necessary packages are either installed from pacman or built from source.
+
+I will be adding extensive sections on the current changes and commands necessary to 
+setup the entire environment from scratch.
+
+Current status:
+    Builds Gimp 2.9.3
+    Lacks python-fu plugin support
